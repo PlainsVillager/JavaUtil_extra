@@ -6,4 +6,4 @@
 
 [我的主页](https://space.bilibili.com/515204296)
 
-喜欢的话请多多给我投票吧（Bushi
+喜欢的话请多多给我投票吧（bushi)
