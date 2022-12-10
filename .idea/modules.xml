@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaUtil_extra.iml" filepath="$PROJECT_DIR$/JavaUtil_extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Version_Pre_Alpha/Version_Pre_Alpha.iml" filepath="$PROJECT_DIR$/Version_Pre_Alpha/Version_Pre_Alpha.iml" />
+    </modules>
+  </component>
+</project>
